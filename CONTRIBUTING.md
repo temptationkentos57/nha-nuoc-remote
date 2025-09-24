@@ -7,7 +7,7 @@ Chúng tôi rất hoan nghênh sự đóng góp của bạn! Để đóng góp v
    ```bash
    git checkout -b my-feature
    ```
-3. Thực hiện các thay đổi và commit:
+3. Thực hiện các thay đổi và commit những thay đổi đó:
    ```bash
    git commit -m 'Thêm tính năng mới'
    ```
