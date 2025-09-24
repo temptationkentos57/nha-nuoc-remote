@@ -4,7 +4,7 @@
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/nha-nuoc-remote.git
+   git clone https://github.com/your_username/nha-nuoc-remote.git
    cd nha-nuoc-remote
    ```
 2. Cài đặt các phụ thuộc:
