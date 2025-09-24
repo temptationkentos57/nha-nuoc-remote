@@ -3,7 +3,7 @@
 Chúng tôi rất hoan nghênh sự đóng góp của bạn! Để đóng góp vào dự án Nha Nước Remote, bạn có thể làm theo các bước sau:
 
 1. Fork repository này về tài khoản của bạn.
-2. Tạo một nhánh mới cho tính năng bạn muốn phát triển:
+2. Tạo một nhánh mới cho tính năng mà bạn muốn phát triển:
    ```bash
    git checkout -b my-feature
    ```
