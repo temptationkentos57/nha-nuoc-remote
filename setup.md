@@ -1,11 +1,11 @@
 # HƯỚNG DẪN CÀI ĐẶT
 
-Để cài đặt dự án Nha Nước Remote, hãy làm theo các bước sau:
+Để cài đặt dự án Nha Nước Online, hãy làm theo các bước sau:
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/your_username/nha-nuoc-remote.git
-   cd nha-nuoc-remote
+   git clone https://github.com/your_username/nha-nuoc-online.git
+   cd nha-nuoc-online
    ```
 2. Cài đặt các phụ thuộc:
    ```bash
