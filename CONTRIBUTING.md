@@ -15,6 +15,6 @@ Chúng tôi rất hoan nghênh sự đóng góp của bạn! Để đóng góp v
    ```bash
    git push origin my-feature
    ```
-5. Mở một pull request để chúng tôi xem xét.
+5. Mở một pull request để chúng tôi xem xét và thảo luận về nó.
 
 Cảm ơn bạn đã giúp cải thiện dự án này!
