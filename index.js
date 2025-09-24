@@ -3,9 +3,9 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('Chào mừng đến với Nha Nước Remote!');
+  res.send('Welcome to Remote State!');
 });
 
 app.listen(PORT, () => {
-  console.log(`Server đang chạy trên cổng ${PORT}`);
+  console.log(`Server is running on port ${PORT}`);
 });
