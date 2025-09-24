@@ -1,0 +1,12 @@
+{
+  "name": "nha-nuoc-remote",
+  "version": "1.0.0",
+  "description": "Nền tảng làm việc trực tuyến cho freelancer và doanh nghiệp tại Việt Nam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
