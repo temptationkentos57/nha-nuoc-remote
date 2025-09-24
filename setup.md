@@ -1,4 +1,4 @@
-# HƯỚNG DẪN CÀI ĐẶT
+# HƯỚNG DẪN CÀI ĐẶT DỰ ÁN
 
 Để cài đặt dự án Nha Nước Online, hãy làm theo các bước sau:
 
